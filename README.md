@@ -1,7 +1,7 @@
 # FN_FAL-s-Power-Xpansion
 Cusomt Slimefun Addon that gives you more Power Generators, these are Ranked/Tier from 1 to 12
 
-Huge thanks to Jeff(LiteXpansion) and Walshy(SF) for letting me use their utils on this neat addon.
+Huge thanks to Jeff(LiteXpansion) and Walshy(SF) for letting me use their utils and resources on this neat addon.
 
 ## The addon as shown in the Slimefun guide
 ![guide](https://user-images.githubusercontent.com/88238718/136643498-641633e9-eca5-4f02-9d9e-e636316d3d4c.png)
