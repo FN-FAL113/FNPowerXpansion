@@ -44,6 +44,14 @@
                         </configuration>
                     </execution>
                 </executions>
+                <configuration>
+                    <relocations>
+                        <relocation>
+                            <pattern>com.github.Slimefun-Addon-Community.ExtraUtils</pattern>
+                            <shadedPattern>me.fnfal113.fnpowergenerators.ExtraUtils</shadedPattern>
+                        </relocation>
+                    </relocations>
+                </configuration>
             </plugin>
         </plugins>
         <resources>
