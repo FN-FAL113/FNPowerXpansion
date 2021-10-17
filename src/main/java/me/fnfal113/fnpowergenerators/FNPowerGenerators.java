@@ -1,8 +1,6 @@
 package me.fnfal113.fnpowergenerators;
 
 import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
-import me.fnfal113.fnpowergenerators.Generators.PowerGens;
-import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class FNPowerGenerators extends JavaPlugin implements SlimefunAddon {

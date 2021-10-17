@@ -1,13 +1,12 @@
 package me.fnfal113.fnpowergenerators;
 
-import dev.j3fftw.extrautils.utils.LoreBuilderDynamic;
+import dev.j3fftw.litexpansion.extrautils.utils.LoreBuilderDynamic;
 import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.skins.PlayerHead;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.skins.PlayerSkin;
 import me.fnfal113.fnpowergenerators.Generators.PowerGens;
-import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 
 public final class ItemsFN {
