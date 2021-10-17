@@ -47,7 +47,7 @@
                 <configuration>
                     <relocations>
                         <relocation>
-                            <pattern>com.github.Slimefun-Addon-Community.ExtraUtils</pattern>
+                            <pattern>dev.j3fftw.ExtraUtils</pattern>
                             <shadedPattern>me.fnfal113.fnpowergenerators.ExtraUtils</shadedPattern>
                         </relocation>
                     </relocations>
